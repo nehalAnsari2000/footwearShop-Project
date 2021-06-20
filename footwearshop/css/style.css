@@ -1,0 +1,35 @@
+/* *{
+  margin:0;
+  paddind:0;
+} */
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+  padding-left: 10px;
+}
+.category{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+  padding-left: 20px;
+  text-align: center;
+}
+.profilePic{
+  border-radius: 50%;
+  width:30px;
+}
+.adminprofilePic{
+  border-radius: 50%;
+  width:120px;
+}
+.wishlistImage{
+  max-width:230px;
+}
+.reviewPic{
+  border-radius: 50%;
+  width:25px;
+}
+.sidebar{
+  text-decoration: none;
+  color: gray;
+}
