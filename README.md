@@ -1,4 +1,5 @@
 Online Wholesale Footwear Shop
+
 Project Overview
 Developed as a final-year project for my B.Sc. in Computer Science, this web-based platform facilitates wholesale footwear sales. It enables customers to browse products, add items to their cart or wishlist, and place orders with online or cash-on-delivery payment options. The system also includes an admin panel for managing products, orders, and payments efficiently.
 
